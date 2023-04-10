@@ -12,7 +12,7 @@
 + Pronouns: she/her
 ! I enjoy science and poetry
 # (like Ada Lovelace, I appreciate the idea of poetic science),
-! politics, books, music, movies, and bad jokes 
+! politics, books, music, movies, and bad jokes
 ```
 </section>
 
