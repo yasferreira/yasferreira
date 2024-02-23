@@ -8,7 +8,7 @@
 ```diff
 @@Junior Front-end Developer@@
 + Living in Salvador, Bahia, Brazil
-+ 21 years old
++ 22 years old
 + Pronouns: she/her
 ! I enjoy science and poetry
 # (like Ada Lovelace, I appreciate the idea of poetic science),
